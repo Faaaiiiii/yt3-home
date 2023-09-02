@@ -1,0 +1,22 @@
+.main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.img-div{
+  height: 200px;
+}
+
+img{
+  height: 100%;
+}
+
+.title{
+  padding: 20px;
+}
+
+.h1{
+  padding-top: 20px;
+}
